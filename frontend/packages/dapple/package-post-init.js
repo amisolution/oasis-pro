@@ -47,6 +47,11 @@ const tokenSpecs = {
   VSL: { precision: 18, format: '0,0.00[0000000000000000]' },
   PLU: { precision: 18, format: '0,0.00[0000000000000000]' },
   MLN: { precision: 18, format: '0,0.00[0000000000000000]' },
+  RHOC: { precision: 8, format: '0,0.00[000000]'  },
+  GUP: { precision: 3, format: '0,0.00[0]'  },
+  AMIS: { precision: 9, format: '0,0.00[0000000]' },
+  BME: { precision: 0, format: '0,0.0000000[0]' }
+
 };
 
 Dapple.getQuoteTokens = () => ['W-ETH'];
