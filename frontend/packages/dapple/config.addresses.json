@@ -2,7 +2,7 @@
   "market": {
     "kovan": "0x4da4a658af01902a86173d80ddcaa89e8c930c29",
     "ropsten": "0xb996fff774d37b900872609bf8b11e31f51bd19e",
-    "live": "0x83ce340889c15a3b4d38cfcd1fc93e5d8497691f"
+    "live": "0x83Ce340889c15a3B4D38cfCD1Fc93e5D8497691f"
   },
   "tokens": {
     "kovan": {
@@ -49,6 +49,11 @@
       "VSL": "0x5c543e7ae0a1104f78406c340e9c64fd9fce5170",
       "PLU": "0xd8912c10681d8b21fd3742244f44658dba12264e",
       "MLN": "0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1"
+      "RHOC": "0x168296bb09e24a88805cb9c33356536b980d3fc5",
+      "GUP": "0xf7b098298f7c69fc14610bf71d5e02c60792894c",
+      "AMIS": "0x949bed886c739f1a3273629b3320db0c5024c719",
+      "BME": "0xf77089f2f00fca83501705b711cbb10a0de77628"
+
     }
   }
 }
